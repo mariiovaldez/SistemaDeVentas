@@ -1,0 +1,36 @@
+{
+  "ShowEmptyProjects": false,
+  "SelectedGroups": [
+    "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\20\\CursoSistemaVenta\\CapaPresentacion\\frmCompras.resx",
+    "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\20\\CursoSistemaVenta\\CapaPresentacion\\frmReportes.resx",
+    "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\20\\CursoSistemaVenta\\CapaPresentacion\\frmDetalleCompra.resx",
+    "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\20\\CursoSistemaVenta\\CapaPresentacion\\frmNegocio.resx",
+    "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\20\\CursoSistemaVenta\\CapaPresentacion\\frmProveedores.resx",
+    "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\20\\CursoSistemaVenta\\CapaPresentacion\\frmCategoria.resx",
+    "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\20\\CursoSistemaVenta\\CapaPresentacion\\frmClientes.resx",
+    "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\20\\CursoSistemaVenta\\CapaPresentacion\\frmUsuario.resx",
+    "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\20\\CursoSistemaVenta\\CapaPresentacion\\Login.resx",
+    "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\20\\CursoSistemaVenta\\CapaPresentacion\\Modales\\mdProducto.resx",
+    "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\20\\CursoSistemaVenta\\CapaPresentacion\\frmDetalleVenta.resx",
+    "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\20\\CursoSistemaVenta\\CapaPresentacion\\Inicio.resx",
+    "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\20\\CursoSistemaVenta\\CapaPresentacion\\frmVentas.resx",
+    "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\20\\CursoSistemaVenta\\CapaPresentacion\\frmProducto.resx",
+    "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\20\\CursoSistemaVenta\\CapaPresentacion\\Modales\\mdProveedor.resx",
+    "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\20\\CursoSistemaVenta\\CapaPresentacion\\Modales\\mdCliente.resx",
+    "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\20\\CursoSistemaVenta\\CapaPresentacion\\Properties\\Resources.resx"
+  ],
+  "ExpandedProjects": [],
+  "EnableSpellChecker": true,
+  "ColumnOrder": [
+    "name",
+    "file-path",
+    "file-name",
+    "type",
+    "neutral-value",
+    "neutral-comment"
+  ],
+  "VisibleColumnKeys": [
+    "name",
+    "neutral-value"
+  ]
+}
