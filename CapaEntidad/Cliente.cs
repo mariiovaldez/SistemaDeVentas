@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CapaEntidad
 {
-    // Cliente
+    // Prueba Mario
     public class Cliente
     {
         public int IdCliente { get; set; }
