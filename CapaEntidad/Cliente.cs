@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CapaEntidad
 {
+    // Cliente
     public class Cliente
     {
         public int IdCliente { get; set; }
