@@ -169,3 +169,12 @@ C:\Users\Mario Valdez C\OneDrive - Universidad de Occidente\Semestres\Semestre 3
 C:\Users\Mario Valdez C\OneDrive - Universidad de Occidente\Semestres\Semestre 3\Ing. Software\PROYECTO\22\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
 C:\Users\Mario Valdez C\OneDrive - Universidad de Occidente\Semestres\Semestre 3\Ing. Software\PROYECTO\22\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Mario Valdez C\OneDrive - Universidad de Occidente\Semestres\Semestre 3\Ing. Software\PROYECTO\22\CursoSistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Hugo\Documents\1_ING-SOFT\SEMESTRES\IV-SEMESTRE\INGENIERIA_SOFT_III\GIthub_Prueba\SistemaDeVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Hugo\Documents\1_ING-SOFT\SEMESTRES\IV-SEMESTRE\INGENIERIA_SOFT_III\GIthub_Prueba\SistemaDeVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Hugo\Documents\1_ING-SOFT\SEMESTRES\IV-SEMESTRE\INGENIERIA_SOFT_III\GIthub_Prueba\SistemaDeVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Hugo\Documents\1_ING-SOFT\SEMESTRES\IV-SEMESTRE\INGENIERIA_SOFT_III\GIthub_Prueba\SistemaDeVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Hugo\Documents\1_ING-SOFT\SEMESTRES\IV-SEMESTRE\INGENIERIA_SOFT_III\GIthub_Prueba\SistemaDeVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Hugo\Documents\1_ING-SOFT\SEMESTRES\IV-SEMESTRE\INGENIERIA_SOFT_III\GIthub_Prueba\SistemaDeVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Documents\1_ING-SOFT\SEMESTRES\IV-SEMESTRE\INGENIERIA_SOFT_III\GIthub_Prueba\SistemaDeVentas\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\Hugo\Documents\1_ING-SOFT\SEMESTRES\IV-SEMESTRE\INGENIERIA_SOFT_III\GIthub_Prueba\SistemaDeVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Hugo\Documents\1_ING-SOFT\SEMESTRES\IV-SEMESTRE\INGENIERIA_SOFT_III\GIthub_Prueba\SistemaDeVentas\CapaDatos\obj\Debug\CapaDatos.pdb
