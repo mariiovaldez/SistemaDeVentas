@@ -297,7 +297,8 @@
             // 
             // btnguardar
             // 
-            this.btnguardar.BackColor = System.Drawing.Color.ForestGreen;
+            // Cambio de color de boton guardar hecho por Hugo
+            this.btnguardar.BackColor = System.Drawing.Color.RoyalBlue;
             this.btnguardar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnguardar.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btnguardar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
