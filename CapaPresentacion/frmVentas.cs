@@ -180,6 +180,7 @@ namespace CapaPresentacion
 
         private void calcularTotal()
         {
+            // Calcular total fixeado
             decimal total = 0;
             if (dgvdata.Rows.Count > 0)
             {
