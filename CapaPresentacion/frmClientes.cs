@@ -64,6 +64,7 @@ namespace CapaPresentacion
 
         private void btnguardar_Click(object sender, EventArgs e)
         {
+            // Fixeado
             string mensaje = string.Empty;
 
             Cliente obj = new Cliente()
