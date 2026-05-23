@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mario Valdez C\\OneDrive - Universidad de Occidente\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\",
+  "WorkspaceRootPath": "C:\\Users\\froyl\\source\\repos\\mariiovaldez\\SistemaDeVentas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\mario valdez c\\onedrive - universidad de occidente\\semestres\\semestre 3\\ing. software\\proyecto\\22\\cursosistemaventa\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\froyl\\source\\repos\\mariiovaldez\\sistemadeventas\\capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Mario Valdez C\\OneDrive - Universidad de Occidente\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\capapresentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1600982-F781-416A-86F9-B84753A164A7}|Solution Items{C1600982-F781-416A-86F9-B84753A164A7}|C:\\Users\\froyl\\source\\repos\\mariiovaldez\\SistemaDeVentas\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C1600982-F781-416A-86F9-B84753A164A7}|Solution Items{C1600982-F781-416A-86F9-B84753A164A7}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Mario Valdez C\\OneDrive - Universidad de Occidente\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\capapresentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\froyl\\source\\repos\\mariiovaldez\\sistemadeventas\\capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,41 +22,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Inicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Mario Valdez C\\OneDrive - Universidad de Occidente\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\CapaPresentacion\\Inicio.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
-              "ToolTip": "C:\\Users\\Mario Valdez C\\OneDrive - Universidad de Occidente\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T18:23:27.742Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\Mario Valdez C\\OneDrive - Universidad de Occidente\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\CapaPresentacion\\frmUsuario.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\frmUsuario.cs",
-              "ToolTip": "C:\\Users\\Mario Valdez C\\OneDrive - Universidad de Occidente\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\CapaPresentacion\\frmUsuario.cs",
-              "RelativeToolTip": "CapaPresentacion\\frmUsuario.cs",
-              "ViewState": "AgIAAOkAAAAAAAAAAAAIwBcBAAAAAAAAAAAAAA==",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\froyl\\source\\repos\\mariiovaldez\\SistemaDeVentas\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\froyl\\source\\repos\\mariiovaldez\\SistemaDeVentas\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-23T19:17:08.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\froyl\\source\\repos\\mariiovaldez\\SistemaDeVentas\\CapaPresentacion\\frmClientes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\froyl\\source\\repos\\mariiovaldez\\SistemaDeVentas\\CapaPresentacion\\frmClientes.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmClientes.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAEwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T18:23:02.681Z"
+              "WhenOpened": "2026-05-23T19:14:15.009Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Mario Valdez C\\OneDrive - Universidad de Occidente\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\CapaPresentacion\\frmUsuario.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\frmUsuario.cs",
-              "ToolTip": "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\CapaPresentacion\\frmUsuario.cs [Dise\u00F1o]",
+              "Title": "frmClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\froyl\\source\\repos\\mariiovaldez\\SistemaDeVentas\\CapaPresentacion\\frmClientes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\froyl\\source\\repos\\mariiovaldez\\SistemaDeVentas\\CapaPresentacion\\frmClientes.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\frmClientes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T18:23:00.616Z"
+              "WhenOpened": "2026-05-23T19:14:04.094Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }

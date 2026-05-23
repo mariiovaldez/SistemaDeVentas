@@ -1,17 +1,1 @@
-{
-  "ShowEmptyProjects": false,
-  "SelectedGroups": [],
-  "ExpandedProjects": [],
-  "EnableSpellChecker": true,
-  "ColumnOrder": [
-    "name",
-    "type",
-    "neutral-value",
-    "neutral-comment"
-  ],
-  "VisibleColumnKeys": [
-    "name",
-    "neutral-comment",
-    "neutral-value"
-  ]
-}
+{"ShowEmptyProjects":false,"CustomColumnOrderings":{"name":0,"file-path":1,"file-name":2,"neutral-value":3,"neutral-comment":4,"type":5},"ShowValidationErrors":true,"SelectedResourceGroupsByProject":{"C:\\Users\\froyl\\source\\repos\\mariiovaldez\\SistemaDeVentas\\CapaDatos\\CapaDatos.csproj":[],"C:\\Users\\froyl\\source\\repos\\mariiovaldez\\SistemaDeVentas\\CapaNegocio\\CapaNegocio.csproj":[],"C:\\Users\\froyl\\source\\repos\\mariiovaldez\\SistemaDeVentas\\CapaEntidad\\CapaEntidad.csproj":[],"C:\\Users\\froyl\\source\\repos\\mariiovaldez\\SistemaDeVentas\\CapaPresentacion\\CapaPresentacion.csproj":[]},"VisibleColumnKeys":["name","neutral-comment","neutral-value"]}
