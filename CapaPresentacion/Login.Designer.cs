@@ -43,9 +43,11 @@
             // 
             // label1
             // 
+            //Cambio de Fuente por Juan
             this.label1.BackColor = System.Drawing.Color.SteelBlue;
             this.label1.Dock = System.Windows.Forms.DockStyle.Left;
             this.label1.Location = new System.Drawing.Point(0, 0);
+            this.label1.Font = new System.Drawing.Font("Cascadia Code", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(334, 267);
             this.label1.TabIndex = 0;
