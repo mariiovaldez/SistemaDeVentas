@@ -150,5 +150,11 @@ namespace CapaPresentacion
                 this.Close();
             }
         }
+
+        private void Inicio_Shown(object sender, EventArgs e)
+        {
+            //Mensaje bienvenida
+            MessageBox.Show("Bienvenido :)", "Sistema", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }
