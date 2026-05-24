@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hugo\\Documents\\1_ING-SOFT\\SEMESTRES\\IV-SEMESTRE\\INGENIERIA_SOFT_III\\GIthub_Prueba\\SistemaDeVentas\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\hugo\\documents\\1_ing-soft\\semestres\\iv-semestre\\ingenieria_soft_iii\\github_prueba\\sistemadeventas\\capapresentacion\\frmcategoria.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcategoria.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\hugo\\documents\\1_ing-soft\\semestres\\iv-semestre\\ingenieria_soft_iii\\github_prueba\\sistemadeventas\\capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Mario Valdez C\\source\\repos\\mariiovaldez\\SistemaDeVentas\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,8 +9,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -31,31 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmCategoria.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\1_ING-SOFT\\SEMESTRES\\IV-SEMESTRE\\INGENIERIA_SOFT_III\\GIthub_Prueba\\SistemaDeVentas\\CapaPresentacion\\frmCategoria.Designer.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\frmCategoria.Designer.cs",
-              "ToolTip": "C:\\Users\\Hugo\\Documents\\1_ING-SOFT\\SEMESTRES\\IV-SEMESTRE\\INGENIERIA_SOFT_III\\GIthub_Prueba\\SistemaDeVentas\\CapaPresentacion\\frmCategoria.Designer.cs*",
-              "RelativeToolTip": "CapaPresentacion\\frmCategoria.Designer.cs*",
-              "ViewState": "AgIAABEBAAAAAAAAAAAowCsBAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T22:43:34.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmCategoria.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\1_ING-SOFT\\SEMESTRES\\IV-SEMESTRE\\INGENIERIA_SOFT_III\\GIthub_Prueba\\SistemaDeVentas\\CapaPresentacion\\frmCategoria.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\frmCategoria.cs",
-              "ToolTip": "C:\\Users\\Hugo\\Documents\\1_ING-SOFT\\SEMESTRES\\IV-SEMESTRE\\INGENIERIA_SOFT_III\\GIthub_Prueba\\SistemaDeVentas\\CapaPresentacion\\frmCategoria.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\frmCategoria.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T22:43:26.112Z",
-              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

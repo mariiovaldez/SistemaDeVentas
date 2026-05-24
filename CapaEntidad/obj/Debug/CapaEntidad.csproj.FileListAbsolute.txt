@@ -70,3 +70,9 @@ C:\Users\Hugo\Documents\1_ING-SOFT\SEMESTRES\IV-SEMESTRE\INGENIERIA_SOFT_III\GIt
 C:\Users\Hugo\Documents\1_ING-SOFT\SEMESTRES\IV-SEMESTRE\INGENIERIA_SOFT_III\GIthub_Prueba\SistemaDeVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 C:\Users\Hugo\Documents\1_ING-SOFT\SEMESTRES\IV-SEMESTRE\INGENIERIA_SOFT_III\GIthub_Prueba\SistemaDeVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\Users\Hugo\Documents\1_ING-SOFT\SEMESTRES\IV-SEMESTRE\INGENIERIA_SOFT_III\GIthub_Prueba\SistemaDeVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Mario Valdez C\source\repos\mariiovaldez\SistemaDeVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Mario Valdez C\source\repos\mariiovaldez\SistemaDeVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Mario Valdez C\source\repos\mariiovaldez\SistemaDeVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Mario Valdez C\source\repos\mariiovaldez\SistemaDeVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Mario Valdez C\source\repos\mariiovaldez\SistemaDeVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Mario Valdez C\source\repos\mariiovaldez\SistemaDeVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
