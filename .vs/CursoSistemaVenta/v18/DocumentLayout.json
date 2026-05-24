@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\",
+  "WorkspaceRootPath": "C:\\Users\\NITRO V15\\source\\repos\\mariiovaldez\\SistemaDeVentas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|m:\\escuela\\semestres\\semestre 3\\ing. software\\proyecto\\22\\cursosistemaventa\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\nitro v15\\source\\repos\\mariiovaldez\\sistemadeventas\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|m:\\escuela\\semestres\\semestre 3\\ing. software\\proyecto\\22\\cursosistemaventa\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NITRO V15\\source\\repos\\mariiovaldez\\SistemaDeVentas\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|m:\\escuela\\semestres\\semestre 3\\ing. software\\proyecto\\22\\cursosistemaventa\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NITRO V15\\source\\repos\\mariiovaldez\\SistemaDeVentas\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|m:\\escuela\\semestres\\semestre 3\\ing. software\\proyecto\\22\\cursosistemaventa\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NITRO V15\\source\\repos\\mariiovaldez\\SistemaDeVentas\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|m:\\escuela\\semestres\\semestre 3\\ing. software\\proyecto\\22\\cursosistemaventa\\capapresentacion\\modales\\mdacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NITRO V15\\source\\repos\\mariiovaldez\\SistemaDeVentas\\capapresentacion\\modales\\mdacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1362869F-2A64-4AF2-91A9-684DB4F87D14}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\CapaPresentacion\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO V15\\source\\repos\\mariiovaldez\\SistemaDeVentas\\CapaPresentacion\\Login.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Login.cs",
-              "ToolTip": "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\CapaPresentacion\\Login.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\NITRO V15\\source\\repos\\mariiovaldez\\SistemaDeVentas\\CapaPresentacion\\Login.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\Login.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T04:54:03.822Z",
@@ -56,51 +56,45 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\CapaPresentacion\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO V15\\source\\repos\\mariiovaldez\\SistemaDeVentas\\CapaPresentacion\\Program.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
-              "ToolTip": "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\CapaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\NITRO V15\\source\\repos\\mariiovaldez\\SistemaDeVentas\\CapaPresentacion\\Program.cs",
               "RelativeToolTip": "CapaPresentacion\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T04:53:25.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T04:53:25.962Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Inicio.cs",
-              "DocumentMoniker": "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\CapaPresentacion\\Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO V15\\source\\repos\\mariiovaldez\\SistemaDeVentas\\CapaPresentacion\\Inicio.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
-              "ToolTip": "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\NITRO V15\\source\\repos\\mariiovaldez\\SistemaDeVentas\\CapaPresentacion\\Inicio.cs",
               "RelativeToolTip": "CapaPresentacion\\Inicio.cs",
               "ViewState": "AgIAAH0AAAAAAAAAAAAqwJoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T04:51:31.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T04:51:31.085Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Inicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\CapaPresentacion\\Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO V15\\source\\repos\\mariiovaldez\\SistemaDeVentas\\CapaPresentacion\\Inicio.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
               "ToolTip": "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:41:10.971Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-11-28T03:41:10.971Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "mdAcercade.cs [Dise\u00F1o]",
-              "DocumentMoniker": "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\CapaPresentacion\\Modales\\mdAcercade.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO V15\\source\\repos\\mariiovaldez\\SistemaDeVentas\\CapaPresentacion\\Modales\\mdAcercade.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdAcercade.cs",
               "ToolTip": "M:\\Escuela\\Semestres\\Semestre 3\\Ing. Software\\PROYECTO\\22\\CursoSistemaVenta\\CapaPresentacion\\Modales\\mdAcercade.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\Modales\\mdAcercade.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:33:35.167Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-11-28T03:33:35.167Z"
             }
           ]
         },
