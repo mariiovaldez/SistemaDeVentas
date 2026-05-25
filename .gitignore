@@ -1,1 +1,15 @@
 .vs/
+bin/
+obj/
+*.cache
+*.sqlite
+*.db
+*.suo
+/.vs/CursoSistemaVenta/CopilotIndices/17.14.1530.14912/CodeChunks.db
+/.vs/CursoSistemaVenta/CopilotIndices/17.14.1530.14912/CodeChunks.db-shm
+/.vs/CursoSistemaVenta/CopilotIndices/17.14.1530.14912/CodeChunks.db-wal
+/.vs/CursoSistemaVenta/CopilotIndices/17.14.1530.14912/SemanticSymbols.db
+/.vs/CursoSistemaVenta/CopilotIndices/17.14.1530.14912/SemanticSymbols.db-shm
+/.vs/CursoSistemaVenta/CopilotIndices/17.14.1530.14912/SemanticSymbols.db-wal
+/.vs/CursoSistemaVenta/v17/.suo
+/.vs/slnx.sqlite
